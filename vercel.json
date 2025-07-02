@@ -1,0 +1,6 @@
+{
+  "middleware": {
+    "middleware": "middleware.ts",
+    "middleware-arcjet": "middleware-arcjet.ts"
+  }
+}
